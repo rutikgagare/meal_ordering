@@ -1,5 +1,5 @@
 import React from 'react';
-import mealsImage from '../../assets/andrei-caliman-tuDUVwkndYU-unsplash.jpg';
+import mealsImage from '../../assets/mahbub-majid-C2uAWfPYTao-unsplash.jpg';
 import classes from './Header.module.css';
 import HeaderCartButton from './HeaderCartButton';
 
