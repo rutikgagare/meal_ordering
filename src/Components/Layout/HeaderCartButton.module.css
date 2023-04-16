@@ -59,6 +59,14 @@
 }
 @media screen and (max-width: 480px) {
   .button{
-    padding: 0.75rem 1rem;
+    padding: 0.5rem 0.7rem;
+  }
+  .badge{
+    padding: 0.25rem 0.5rem;
+  }
+  .icon {
+    width: 1.35rem;
+    height: 1.35rem;
+    margin-right: 0.2rem;
   }
 }
