@@ -19,4 +19,4 @@ const HeaderCartButton = (props) => {
   )
 }
 
-export default HeaderCartButton
+export default HeaderCartButton;
