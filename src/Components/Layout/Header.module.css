@@ -28,8 +28,9 @@
     transform: rotateZ(-5deg) translateY(-4rem) translateX(-1rem);
   }
 
-  @media screen and (min-width: 480px) {
+  @media screen and (max-width: 480px) {
     .header h1{
+      /* background-color: red; */
       font-size: 0.8rem;
     }
   }
